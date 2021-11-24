@@ -624,7 +624,7 @@ class  WindowFrame extends Frame {
 
 ### 2.1 窗口面板
 
-![image-20211007182115088](https://i.loli.net/2021/10/07/9fPcqtusb5kBrZD.png)
+![image](https://user-images.githubusercontent.com/56108982/143243735-3534d893-107f-4062-bb16-75fc35c48e4a.png)
 
 ```java
 package com.JFrame;
